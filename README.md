@@ -31,3 +31,12 @@ This project was built as part of a networking and terraform exercise focused on
 - Terraform is used to ensure infrastructure is reproducible and version-controlled.
 
 ---
+
+## Terraform Structure
+
+---
+
+## Deployment Prerequisites
+- AWS account
+- AWS CLI configured
+- Terraform installed
