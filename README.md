@@ -2,6 +2,8 @@
 
 **Date:** 10-10-2025
 
+---
+
 ## Overview
 
 This project was built as part of a networking and terraform exercise focused on clean modular infrastructure design, reproducible deployments and to demonstrate practical understanding of:
