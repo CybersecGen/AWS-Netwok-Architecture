@@ -57,3 +57,34 @@ Terraform successfully provisioning the infrastructure:
 
 ---
 
+** Validation
+
+- Verified VPC and subnet creation in AWS Console
+- Confirmed public subnet internet routing
+- Confirmed route table associations
+- Validated Terraform syntax and formatting
+
+---
+
+## Key Learnings
+
+- Improved understanding of AWS VPC architecture
+- Practiced subnet segmentation and routing concepts
+- Gained experience using Terraform for Infrastructure as Code
+- Learned how to structure Terraform configurations cleanly
+
+---
+
+## Future Improvements
+
+- Add NAT Gateway for private subnet outbound access
+- Expand architecture across multiple availability zones
+- Introduce Network ACL configurations
+- Refactor into reusable Terraform modules
+
+---
+
+## Resources
+- Terraform Documentation
+- AWS VPC Documentation 
+
