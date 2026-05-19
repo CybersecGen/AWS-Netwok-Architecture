@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project was built to as part of a networking and terraform exercise focused on clean modular infrastructure design, reproducible deployments and to demonstrate practical understanding of:
+This project was built as part of a networking and terraform exercise focused on clean modular infrastructure design, reproducible deployments and to demonstrate practical understanding of:
 
 - AWS VPC design
 - Public and private subnet segmentation
