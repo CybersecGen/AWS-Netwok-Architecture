@@ -34,6 +34,20 @@ This project was built as part of a networking and terraform exercise focused on
 
 ## Terraform Structure
 
+## Terraform Structure
+
+```text
+infra/
+├── provider.tf
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── vpc.tf
+├── subnets.tf
+├── routes.tf
+└── security_groups.tf
+```
+
 ---
 
 ## Deployment Prerequisites
