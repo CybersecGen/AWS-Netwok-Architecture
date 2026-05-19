@@ -34,8 +34,6 @@ This project was built as part of a networking and terraform exercise focused on
 
 ## Terraform Structure
 
-## Terraform Structure
-
 ```text
 infra/
 ├── provider.tf
